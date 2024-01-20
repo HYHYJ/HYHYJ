@@ -27,6 +27,15 @@
 
 <br/>
 
+## 🌏 About Project
+
+## 🔭 completion
+<img src="https://img.shields.io/badge/🦁멋쟁이사자처럼 프론트엔드 스쿨 6기-F7A81B?style=for-the-badge&logo&logoColor=white">
+<img src="https://img.shields.io/badge/🦁멋쟁이사자처럼 프론트엔드 스쿨 플러스 1기(심화과정)-F36633?style=for-the-badge&logo&logoColor=white">
+
+
+<br/>
+
 ## 🛰️ Links
 📗 기술 블로그(벨로그)  https://velog.io/@jjang_hyo/posts
 
