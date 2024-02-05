@@ -6,7 +6,7 @@
 ### About Me🖐️
 - ⭐ 사용자 중심의 효율적인 UI/UX를 추구하는 개발자 입니다.
 - ✒️ [벨로그](https://velog.io/@jjang_hyo/posts)에 공부 내용과 프로젝트 내용을 **80+** 기록하며 성장하고 있습니다.
-- 📖 스터디장을 맡아 [스터디](https://github.com/HYHYJ/mts-study)를 진행하며 성장하고 있습니다.
+- 📖 스터디장을 맡아 [스터디](https://github.com/HYHYJ/mts-study)를 진행하고, 맡은 부분을 공부하고 팀원들에게 발표하며 성장하고 있습니다.
 - 👩‍💻 매일 [코딩테스트](https://github.com/HYHYJ/Algorithm-solving-with-js)를 공부하고 있습니다.
 - 📈 현재, 미니 팀 프로젝트 ['📮I write you'](https://github.com/likelion-plus/i-write-you)를 깃마스터로 진행하고 있습니다.
 
@@ -28,6 +28,10 @@
 <br/>
 
 ## 🌏 About Project
+- [📮I Write You - 소중한 사람에게 전하는 편지 보내기 사이드 프로젝트](https://github.com/likelion-plus/i-write-you)
+- [🐶별해달 - 반려동물 간식 마켓 사이트](https://github.com/likelion-plus/counting-stars-13)
+- [✈️야무지개놀자(여행앱)](https://github.com/FRONTENDSCHOOL6/1st-ComeOn-TripApp)
+- [📺타잉(티빙 클론)](https://github.com/javascript-project-3/project-JS-3)
 
 ## 🔭 completion
 <img src="https://img.shields.io/badge/🦁멋쟁이사자처럼 프론트엔드 스쿨 6기-F7A81B?style=for-the-badge&logo&logoColor=white">
