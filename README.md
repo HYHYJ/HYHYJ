@@ -57,7 +57,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYHYJ&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYHYJ)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
