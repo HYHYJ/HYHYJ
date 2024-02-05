@@ -28,10 +28,10 @@
 <br/>
 
 ## 🌏 About Project
-- [📮I Write You - 소중한 사람에게 전하는 편지 보내기 사이드 프로젝트](https://github.com/likelion-plus/i-write-you)
-- [🐶별해달 - 반려동물 간식 마켓 사이트](https://github.com/likelion-plus/counting-stars-13)
-- [✈️야무지개놀자(여행앱)](https://github.com/FRONTENDSCHOOL6/1st-ComeOn-TripApp)
-- [📺타잉(티빙 클론)](https://github.com/javascript-project-3/project-JS-3)
+- 📮I Write You - [소중한 사람에게 전하는 편지 보내기 사이드 프로젝트](https://github.com/likelion-plus/i-write-you)
+- 🐶별해달 - [반려동물 간식 마켓 사이트](https://github.com/likelion-plus/counting-stars-13)
+- ✈️야무지개놀자 - [여행앱](https://github.com/FRONTENDSCHOOL6/1st-ComeOn-TripApp)
+- 📺타잉 - [티빙 클론](https://github.com/javascript-project-3/project-JS-3)
 
 ## 🔭 completion
 <img src="https://img.shields.io/badge/🦁멋쟁이사자처럼 프론트엔드 스쿨 6기-F7A81B?style=for-the-badge&logo&logoColor=white">
