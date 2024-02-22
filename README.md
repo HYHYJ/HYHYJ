@@ -33,10 +33,6 @@
 - ✈️야무지개놀자 - [여행앱](https://github.com/FRONTENDSCHOOL6/1st-ComeOn-TripApp)
 - 📺타잉 - [티빙 클론](https://github.com/javascript-project-3/project-JS-3)
 
-## 🔭 completion
-<img src="https://img.shields.io/badge/🦁멋쟁이사자처럼 프론트엔드 스쿨 6기-F7A81B?style=for-the-badge&logo&logoColor=white">
-<img src="https://img.shields.io/badge/🦁멋쟁이사자처럼 프론트엔드 스쿨 플러스 1기(심화과정)-F36633?style=for-the-badge&logo&logoColor=white">
-
 
 <br/>
 
