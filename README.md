@@ -1,4 +1,4 @@
-![image](https://github.com/HYHYJ/HYHYJ/assets/101866872/2fc524f0-6554-4951-9f61-fc5a0a52754d)
+<!-- ![image](https://github.com/HYHYJ/HYHYJ/assets/101866872/2fc524f0-6554-4951-9f61-fc5a0a52754d) -->
 
 
 ## 🚀기록하며 성장하는 Front-end 개발자 장효윤👩‍🚀 입니다
