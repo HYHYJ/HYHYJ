@@ -8,7 +8,6 @@
 - ✒️ [벨로그](https://velog.io/@jjang_hyo/posts)에 공부 내용과 프로젝트 내용을 **80+** 기록하며 성장하고 있습니다.
 - 📖 스터디장을 맡아 [스터디](https://github.com/HYHYJ/mts-study)를 진행하고, 맡은 부분을 공부하고 팀원들에게 발표하며 성장하고 있습니다.
 - 👩‍💻 매일 [코딩테스트](https://github.com/HYHYJ/Algorithm-solving-with-js)를 공부하고 있습니다.
-- 📈 현재, 미니 팀 프로젝트 ['📮I write you'](https://github.com/likelion-plus/i-write-you)를 깃마스터로 진행하고 있습니다.
 
 ### 📚 Recent Studies
 
