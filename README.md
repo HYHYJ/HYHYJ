@@ -1,13 +1,13 @@
-<!-- ![image](https://github.com/HYHYJ/HYHYJ/assets/101866872/2fc524f0-6554-4951-9f61-fc5a0a52754d) -->
+ ![image](https://github.com/HYHYJ/HYHYJ/assets/101866872/2fc524f0-6554-4951-9f61-fc5a0a52754d)
 
 
 ## 🚀기록하며 성장하는 Front-end 개발자 장효윤👩‍🚀 입니다
 
 ### About Me🖐️
 - ⭐ 사용자 중심의 효율적인 UI/UX를 추구하는 개발자 입니다.
-- ✒️ [벨로그](https://velog.io/@jjang_hyo/posts)에 공부 내용과 프로젝트 내용을 **80+** 기록하며 성장하고 있습니다.
-- 📖 스터디장을 맡아 [스터디](https://github.com/HYHYJ/mts-study)를 진행하고, 맡은 부분을 공부하고 팀원들에게 발표하며 성장하고 있습니다.
-- 👩‍💻 매일 [코딩테스트](https://github.com/HYHYJ/Algorithm-solving-with-js)를 공부하고 있습니다.
+- ✒️ [벨로그](https://velog.io/@jjang_hyo/posts)에 공부 내용과 프로젝트 내용을 **170+** 기록하며 성장하고 있습니다.
+<!-- - 📖 스터디장을 맡아 [스터디](https://github.com/HYHYJ/mts-study)를 진행하고, 맡은 부분을 공부하고 팀원들에게 발표하며 성장하고 있습니다.
+// - 👩‍💻 매일 [코딩테스트](https://github.com/HYHYJ/Algorithm-solving-with-js)를 공부하고 있습니다. -->
 
 ### 📚 Recent Studies
 
